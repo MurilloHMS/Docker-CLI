@@ -1,0 +1,16 @@
+M:\ContainersArtsystem\obj\Debug\net8.0\ContainersArtsystem.GeneratedMSBuildEditorConfig.editorconfig
+M:\ContainersArtsystem\obj\Debug\net8.0\ContainersArtsystem.AssemblyInfoInputs.cache
+M:\ContainersArtsystem\obj\Debug\net8.0\ContainersArtsystem.AssemblyInfo.cs
+M:\ContainersArtsystem\obj\Debug\net8.0\ContainersArtsystem.csproj.CoreCompileInputs.cache
+M:\ContainersArtsystem\bin\Debug\net8.0\ContainersArtsystem.exe
+M:\ContainersArtsystem\bin\Debug\net8.0\ContainersArtsystem.deps.json
+M:\ContainersArtsystem\bin\Debug\net8.0\ContainersArtsystem.runtimeconfig.json
+M:\ContainersArtsystem\bin\Debug\net8.0\ContainersArtsystem.dll
+M:\ContainersArtsystem\bin\Debug\net8.0\ContainersArtsystem.pdb
+M:\ContainersArtsystem\obj\Debug\net8.0\ContainersArtsystem.csproj.AssemblyReference.cache
+M:\ContainersArtsystem\obj\Debug\net8.0\ContainersArtsystem.dll
+M:\ContainersArtsystem\obj\Debug\net8.0\refint\ContainersArtsystem.dll
+M:\ContainersArtsystem\obj\Debug\net8.0\ContainersArtsystem.pdb
+M:\ContainersArtsystem\obj\Debug\net8.0\ContainersArtsystem.genruntimeconfig.cache
+M:\ContainersArtsystem\obj\Debug\net8.0\ref\ContainersArtsystem.dll
+M:\ContainersArtsystem\obj\Debug\net8.0\ContainersArtsystem.csproj.Fody.CopyLocal.cache
