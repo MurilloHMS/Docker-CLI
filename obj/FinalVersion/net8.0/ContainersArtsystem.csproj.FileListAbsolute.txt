@@ -14,3 +14,4 @@ M:\ContainersArtsystem\obj\FinalVersion\net8.0\refint\ContainersArtsystem.dll
 M:\ContainersArtsystem\obj\FinalVersion\net8.0\ContainersArtsystem.pdb
 M:\ContainersArtsystem\obj\FinalVersion\net8.0\ContainersArtsystem.genruntimeconfig.cache
 M:\ContainersArtsystem\obj\FinalVersion\net8.0\ref\ContainersArtsystem.dll
+M:\ContainersArtsystem\obj\FinalVersion\net8.0\ContainersArtsystem.sourcelink.json

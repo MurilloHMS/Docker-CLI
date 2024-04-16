@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ContainersArtsystem</id>
+    <version>1.0.0</version>
+    <authors>ContainersArtsystem</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="7fba3539cea15da8a451cd63ed5677c225055e88" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="ConsoleTables" version="2.6.1" exclude="Build,Analyzers" />
+        <dependency id="Docker.DotNet" version="3.125.15" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net8.0/templates/Docker.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="M:\ContainersArtsystem\bin\FinalVersion\net8.0\ContainersArtsystem.runtimeconfig.json" target="lib\net8.0\ContainersArtsystem.runtimeconfig.json" />
+    <file src="M:\ContainersArtsystem\bin\FinalVersion\net8.0\ContainersArtsystem.dll" target="lib\net8.0\ContainersArtsystem.dll" />
+    <file src="M:\ContainersArtsystem\templates\Docker.ico" target="content\templates\Docker.ico" />
+    <file src="M:\ContainersArtsystem\templates\Docker.ico" target="contentFiles\any\net8.0\templates\Docker.ico" />
+  </files>
+</package>

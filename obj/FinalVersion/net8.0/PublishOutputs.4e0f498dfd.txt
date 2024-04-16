@@ -1,0 +1,5 @@
+M:\ContainersArtsystem\bin\FinalVersion\net8.0\app.publish\ContainersArtsystem.exe
+M:\ContainersArtsystem\bin\FinalVersion\net8.0\app.publish\ContainersArtsystem.dll
+M:\ContainersArtsystem\bin\FinalVersion\net8.0\app.publish\ContainersArtsystem.runtimeconfig.json
+M:\ContainersArtsystem\bin\FinalVersion\net8.0\app.publish\ContainersArtsystem.pdb
+M:\ContainersArtsystem\bin\FinalVersion\net8.0\app.publish\ContainersArtsystem.deps.json
