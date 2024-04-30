@@ -5,8 +5,8 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <ApplicationIcon>templates\Docker.ico</ApplicationIcon>
     <Configurations>Debug;Release;FinalVersion</Configurations>
+    <ApplicationIcon>templates\Docker.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
@@ -20,6 +20,7 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Docker.DotNet" Version="3.125.15" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="8.0.0" />
   </ItemGroup>
 
 </Project>

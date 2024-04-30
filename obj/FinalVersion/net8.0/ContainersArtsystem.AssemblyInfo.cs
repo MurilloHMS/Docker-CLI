@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContainersArtsystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("FinalVersion")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fba3539cea15da8a451cd63ed5677c225055e88")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae9d0afa29243052bf7023d2d0582ed7881d19cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContainersArtsystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContainersArtsystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

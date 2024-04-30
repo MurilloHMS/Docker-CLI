@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "M:\\ContainersArtsystem\\ContainersArtsystem.csproj": {}
+    "C:\\Users\\artsy\\trabalho\\desenvolvimento\\Artsystem-CLI\\ContainersArtsystem.csproj": {}
   },
   "projects": {
-    "M:\\ContainersArtsystem\\ContainersArtsystem.csproj": {
+    "C:\\Users\\artsy\\trabalho\\desenvolvimento\\Artsystem-CLI\\ContainersArtsystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "M:\\ContainersArtsystem\\ContainersArtsystem.csproj",
+        "projectUniqueName": "C:\\Users\\artsy\\trabalho\\desenvolvimento\\Artsystem-CLI\\ContainersArtsystem.csproj",
         "projectName": "ContainersArtsystem",
-        "projectPath": "M:\\ContainersArtsystem\\ContainersArtsystem.csproj",
-        "packagesPath": "C:\\Users\\Murillo\\.nuget\\packages\\",
-        "outputPath": "M:\\ContainersArtsystem\\obj\\",
+        "projectPath": "C:\\Users\\artsy\\trabalho\\desenvolvimento\\Artsystem-CLI\\ContainersArtsystem.csproj",
+        "packagesPath": "C:\\Users\\artsy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\artsy\\trabalho\\desenvolvimento\\Artsystem-CLI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Murillo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\artsy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -62,6 +58,10 @@
             "Docker.DotNet": {
               "target": "Package",
               "version": "[3.125.15, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             }
           },
           "imports": [

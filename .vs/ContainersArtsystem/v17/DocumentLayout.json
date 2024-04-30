@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "M:\\ContainersArtsystem\\",
+  "WorkspaceRootPath": "C:\\Users\\artsy\\trabalho\\desenvolvimento\\Artsystem-CLI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D48F5BD0-DD07-4C87-8C4C-C8912353E5FE}|ContainersArtsystem.csproj|m:\\containersartsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D48F5BD0-DD07-4C87-8C4C-C8912353E5FE}|ContainersArtsystem.csproj|c:\\users\\artsy\\trabalho\\desenvolvimento\\artsystem-cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D48F5BD0-DD07-4C87-8C4C-C8912353E5FE}|ContainersArtsystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D48F5BD0-DD07-4C87-8C4C-C8912353E5FE}|ContainersArtsystem.csproj|M:\\ContainersArtsystem\\containersartsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{D48F5BD0-DD07-4C87-8C4C-C8912353E5FE}|ContainersArtsystem.csproj|C:\\Users\\artsy\\trabalho\\desenvolvimento\\Artsystem-CLI\\containersartsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{D48F5BD0-DD07-4C87-8C4C-C8912353E5FE}|ContainersArtsystem.csproj|solutionrelative:containersartsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48F5BD0-DD07-4C87-8C4C-C8912353E5FE}|ContainersArtsystem.csproj|C:\\Users\\artsy\\trabalho\\desenvolvimento\\Artsystem-CLI\\containersartsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D48F5BD0-DD07-4C87-8C4C-C8912353E5FE}|ContainersArtsystem.csproj|solutionrelative:containersartsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 259,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,11 +34,23 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContainersArtsystem.csproj",
+              "DocumentMoniker": "C:\\Users\\artsy\\trabalho\\desenvolvimento\\Artsystem-CLI\\ContainersArtsystem.csproj",
+              "RelativeDocumentMoniker": "ContainersArtsystem.csproj",
+              "ToolTip": "C:\\Users\\artsy\\trabalho\\desenvolvimento\\Artsystem-CLI\\ContainersArtsystem.csproj",
+              "RelativeToolTip": "ContainersArtsystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-17T15:05:24.307Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ContainersArtsystem",
-              "DocumentMoniker": "M:\\ContainersArtsystem\\ContainersArtsystem.csproj",
+              "DocumentMoniker": "C:\\Users\\artsy\\trabalho\\desenvolvimento\\Artsystem-CLI\\ContainersArtsystem.csproj",
               "RelativeDocumentMoniker": "ContainersArtsystem.csproj",
-              "ToolTip": "M:\\ContainersArtsystem\\ContainersArtsystem.csproj",
+              "ToolTip": "C:\\Users\\artsy\\trabalho\\desenvolvimento\\Artsystem-CLI\\ContainersArtsystem.csproj",
               "RelativeToolTip": "ContainersArtsystem.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-04-06T13:35:36.385Z"
@@ -43,11 +59,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "M:\\ContainersArtsystem\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\artsy\\trabalho\\desenvolvimento\\Artsystem-CLI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "M:\\ContainersArtsystem\\Program.cs",
+              "ToolTip": "C:\\Users\\artsy\\trabalho\\desenvolvimento\\Artsystem-CLI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAM4AAAAAAAAAAAAswGwAAAAAAAAA",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAnwJIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-06T12:00:00.082Z",
               "EditorCaption": ""
